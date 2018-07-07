@@ -1,0 +1,22 @@
+{
+  "name": "function-parameter-validator",
+  "version": "0.1.0",
+  "description": "A simple tool which validates that function parameters. You can check to make sure parameters are (a) present, (b) defined, (c) truthy, and more!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "function",
+    "parameter",
+    "validator",
+    "validation"
+  ],
+  "author": "alanandroid",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^23.2.0",
+    "jest": "^23.2.0",
+    "jest-cli": "^23.3.0"
+  }
+}
